@@ -1,0 +1,10 @@
+# email info for sending an event
+
+address: "smtp.gmail.com"
+port: "587"
+domain: "my.host.name"
+user_name: "josephpatrickcabanilla@gmail.com"
+password: "fu255hol"
+authentication: "plain"
+
+
